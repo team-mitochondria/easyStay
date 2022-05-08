@@ -1,11 +1,17 @@
 import React from "react";
 import "./Home.css";
 import { Link } from "react-router-dom";
-import bg from "../images/frontpagebg.png";
-import logo from "../images/airbnb.png";
-import { ConnectButton, Icon, Select, DatePicker, Input, Button } from "web3uikit";
+import bg from "../images/homeImg2.jpg";
+import logo from "../images/easyStayLogo.jpg";
+import {
+  ConnectButton,
+  Icon,
+  Select,
+  DatePicker,
+  Input,
+  Button,
+} from "web3uikit";
 import { useState } from "react";
-
 
 const Home = () => {
   const [checkIn, setCheckIn] = useState(new Date());
@@ -14,7 +20,7 @@ const Home = () => {
   const [guests, setGuests] = useState(2);
 
   return (
-    <>
+    <div className="home">
       <div className="container" style={{ backgroundImage: `url(${bg})` }}>
         <div className="containerGradinet"></div>
       </div>
@@ -24,8 +30,6 @@ const Home = () => {
         </div>
         <div className="tabs">
           <div className="selected">Places To Stay</div>
-          <div>Experiences</div>
-          <div>Online Experiences</div>
         </div>
         <div className="lrContainers">
           <ConnectButton />
@@ -84,15 +88,18 @@ const Home = () => {
               onChange={(event) => setGuests(Number(event.target.value))}
             />
           </div>
-          <Link to={"/rentals"} state={{
-            destination: destination,
-            checkIn: checkIn,
-            checkOut: checkOut,
-            guests: guests
-          }}>
-          <div className="searchButton">
-            <Icon fill="#ffffff" size={24} svg="search" />
-          </div>
+          <Link
+            to={"/rentals"}
+            state={{
+              destination: destination,
+              checkIn: checkIn,
+              checkOut: checkOut,
+              guests: guests,
+            }}
+          >
+            <div className="searchButton">
+              <Icon fill="#ffffff" size={24} svg="search" />
+            </div>
           </Link>
         </div>
       </div>
@@ -107,7 +114,7 @@ const Home = () => {
           onClick={() => console.log(checkOut)}
         />
       </div>
-    </>
+    </div>
   );
 };
 

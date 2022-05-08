@@ -1,1 +1,1 @@
-# Airbnb-Decentral
+# EasyStay-Decentral
