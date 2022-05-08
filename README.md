@@ -1,4 +1,11 @@
 # EasyStay 
+
+### TEAM - MITOCHONDRI 
+#### TEAM MEMBERS   
+[Harshit Jain](https://github.com/theoopsguy)   
+[Tanish Chugh](https://github.com/tanishchugh01)  
+[Shivangi Singh](https://github.com/SHIVANGISINGH1) 
+
 ### Demo of our website : https://youtu.be/LbrQ8ERsvJc
 
 A dapp to provide easy one-click booking of hotels, and lounges available in different places of the world. 
