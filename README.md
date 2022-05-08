@@ -6,7 +6,7 @@
 [Tanish Chugh](https://github.com/tanishchugh01)  
 [Shivangi Singh](https://github.com/SHIVANGISINGH1) 
 
-### Demo of our website : https://youtu.be/LbrQ8ERsvJc
+### Demo of our dapp : https://youtu.be/LbrQ8ERsvJc
 
 A dapp to provide easy one-click booking of hotels, and lounges available in different places of the world. 
 No matter where you want to go, we will plan a beautiful stay for you and your family.
