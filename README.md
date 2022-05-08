@@ -14,12 +14,12 @@ You can book your reservations through Metamask, Wallet connect, Trust Wallet cr
 
 ## Technology:
 
+* Moralis
 * Blockchain
 * Web3
 * Polygon
 * React
 * Solidity
-* Moralis
 * Web3 UI Kit
 
 ---
