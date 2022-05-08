@@ -16,6 +16,9 @@ You can book your reservations through Metamask, Wallet connect, Trust Wallet cr
 ![image](https://user-images.githubusercontent.com/80265624/167296432-4ab5b61b-eff6-478e-af96-5ce0e3a6af32.png)
 ![image](https://user-images.githubusercontent.com/80265624/167296458-da6b3415-59d2-4dda-86b8-0ecbec820f9d.png)
 ![image](https://user-images.githubusercontent.com/80265624/167296476-dd204402-e447-455d-bbc7-b91dd2986fed.png)
+![image](https://user-images.githubusercontent.com/83968619/167301267-b4659d85-5072-48ac-a8cb-11b45427f6b4.png)
+![image](https://user-images.githubusercontent.com/83968619/167301350-fec0022c-3b23-4069-8079-f1a1124f9d08.png)
+
 
 ---
 
