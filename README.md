@@ -52,3 +52,7 @@ Chain ID: 80001
 Currency Symbol: MATIC
 
 Block Explorer URL: https://polygonscan.com/
+
+---
+
+Get some MATIC tokens for testing. These faucets worked for us https://faucet.polygon.technology/ and https://mumbaifaucet.com/
