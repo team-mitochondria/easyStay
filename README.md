@@ -2,7 +2,7 @@
 
 A dapp to provide easy one-click booking of hotels, and lounges available in different places of the world. 
 No matter where you want to go, we will plan a beautiful stay for you and your family.
-You can book your reservations through Metamask, Wallet connect, Trust Wallet crypto wallets with maximum security. Our Dapp is build on Moralis which offers maximum security so that no one can temper with the data.
+You can book your reservations through Metamask, Wallet connect, Trust Wallet crypto wallets with maximum security. Our Dapp is built on Moralis which is a Web3 development operating system and we have used its database and api service.
 
 ---
 
