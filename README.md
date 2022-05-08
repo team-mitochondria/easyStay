@@ -1,6 +1,6 @@
 # EasyStay 
 
-### TEAM - MITOCHONDRI 
+### TEAM - MITOCHONDRIA 
 #### TEAM MEMBERS   
 [Harshit Jain](https://github.com/theoopsguy)   
 [Tanish Chugh](https://github.com/tanishchugh01)  
